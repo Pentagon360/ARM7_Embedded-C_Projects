@@ -1,4 +1,4 @@
-/ main.c
+// main.c
 #include <lpc21xx.h>
 #include <stdlib.h>
 #include <string.h>
